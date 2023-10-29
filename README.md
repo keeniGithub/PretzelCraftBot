@@ -36,3 +36,15 @@ $ python setup.py install
 <h3>
 There is no such functionality. The bot was created just to link to other project resources and explore the buttons in Telebot
 </h3>
+
+<h1 align="center">Other link</h1>
+
+<div align="center">
+
+[Bstore](https://t.me/thebelkin)
+|
+[telegram](https://t.me/kenyka)
+|
+[YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
+|
+[GGdash](https://discord.gg/r6gCRR75Un)
